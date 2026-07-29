@@ -45,8 +45,3 @@ To get a local copy of the project and run it on your machine, follow these step
 
 2. Open the app in your browser:
 - http://localhost:3000
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Photofoliio" 
